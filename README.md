@@ -76,8 +76,13 @@ IT graduate (B.Tech IT, 2026) from Trichy, passionate about building clean, user
 
 
 ## 🚀 Featured Projects
-- **[Project Name]** – one-line description ([Repo](link))
-- **[Project Name]** – one-line description ([Repo](link))
+
+### 🌱 Geospatial Information Service System for Intelligent Irrigation
+Web-based GIS system that helps with smart irrigation decisions using geospatial data.
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+[🔗 View Repository](https://github.com/Lakshmipriya209/irrigation_system)
+
+
 
 ## 📫 Connect with me
 [
